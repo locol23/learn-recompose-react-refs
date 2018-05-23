@@ -2,19 +2,6 @@
 
 React Refs with recompose sample
 
-## Tech Stack
-
-- [React](https://reactjs.org/)
-- [Parcel](https://parceljs.org/)
-- [Prittier](https://prettier.io/)
-- [ESLint](https://eslint.org/)
-- [Recompose](https://github.com/acdlite/recompose)
-
-## Prerequisites
-
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/en)
-
 ## Getting Started
 
 ### Clone the repository
